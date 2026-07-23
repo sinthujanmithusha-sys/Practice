@@ -1,0 +1,6 @@
+Public class Course{
+  private long id;
+  private String courseName;
+  private String CourseId
+  private String code
+}
